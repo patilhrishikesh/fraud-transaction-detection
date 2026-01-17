@@ -1,0 +1,18 @@
+[project]
+name = "fraud-transaction-detection"
+version = "0.1.0"
+description = "Fraud Transaction Detection System using Machine Learning"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "xgboost",
+    "matplotlib",
+    "seaborn",
+    "joblib",
+    "streamlit"
+
+
+]
